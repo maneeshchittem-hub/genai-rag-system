@@ -51,23 +51,23 @@ Gemini generates the answer.
 Streamlit provides the final user interface.
 Installation
 
-Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/maneeshchittem-hub/genai-rag-system.git
 
-Go to the project folder:
+2.Go to the project folder:
 
 cd genai-rag-system
 
-Create a virtual environment:
+3.Create a virtual environment:
 
 python -m venv venv
 
-Activate it on Windows:
+4.Activate it on Windows:
 
 venv\Scripts\activate
 
-Install dependencies:
+5.Install dependencies:
 
 pip install -r requirements.txt
 API Key
